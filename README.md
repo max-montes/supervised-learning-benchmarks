@@ -1,5 +1,7 @@
 # Benchmarking Supervised Learning Algorithms
 
+> **📄 [Read the full report (PDF)](report/main.pdf)**
+
 Comparative analysis of four supervised learning algorithm families on two classification tasks, evaluating Decision Trees, k-Nearest Neighbors, Support Vector Machines, and Neural Networks (scikit-learn and PyTorch).
 
 ## Datasets
